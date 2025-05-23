@@ -137,10 +137,10 @@ def tra_cuu_diem_theo_mon(Chuoi_Tra_cuu,Danh_sach_ktra) :
     Danh_sach_xem = Lay_diem_theo_ID( Chuoi_Tra_cuu[0] , Danh_sach_chon_mon )
 
     return Danh_sach_xem
-
+ 
 
 # Danh_sach_ktra = Doc_diem()
-# print(Danh_sach_ktra)
+# print(Danh_sach_ktra) 
 # Chuoi_Tra_cuu = "2-1-2018-2019"
 # Danh_sach_hien_thi = tra_cuu_diem_theo_mon(Chuoi_Tra_cuu , Danh_sach_ktra)   
 # print(Danh_sach_hien_thi) 
