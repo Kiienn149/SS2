@@ -10,7 +10,6 @@ from app_school.xu_ly.Xu_ly_Model import GiaoVien, Mon, HocSinh, BangDiem
 from app_school.xu_ly.Xu_ly_Form import *
 import json
 
-
 @app.route('/giao-vien', methods=['GET', 'POST'])
 def giao_vien():
     if session.get("giaovien") == None:
