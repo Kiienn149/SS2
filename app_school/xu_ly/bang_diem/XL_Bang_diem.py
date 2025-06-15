@@ -3,7 +3,6 @@ from app_school.xu_ly.Xu_ly_Model import BangDiem, HocSinh, Mon
 from app_school.xu_ly.mon_hoc.XL_Mon_hoc import doc_danh_sach_mon_hoc
 
 
-
 def doc_danh_sach_bang_diem_hoc():  # select field tupple choice
     ds_bang_diem = []
     try:

@@ -12,7 +12,6 @@ from app_school import app, db_session
 from datetime import date
 from flask_mail import Mail , Message
 
-
 @app.route("/quan-li" , methods = ['GET','POST'])
 def trang_quan_li() :
     if session.get("quanli") == None:
