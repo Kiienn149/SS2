@@ -1,5 +1,0 @@
-Flask-WTF
-WTForms
-Flask
-Flask-SQLAlchemy
-Flask-Mail
