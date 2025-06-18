@@ -35,3 +35,33 @@
 
 ## Project 
 ![model](./do_an_diagram.png)
+## How to install and run
+1.  Clone the Repository
+```bash
+git clone  https://github.com/Kiienn149/SS2.git
+```
+3.  Navigate to the Project Directory
+```bash
+cd your-repo-name/SS2
+```
+4.  Create and Activate Virtual Environment
+python -m venv venv
+Activate the virtual environment:
+
+On Windows:
+```bash
+venv\Scripts\activate
+```
+On macOS/Linux:
+
+```bash
+source venv/bin/activate
+```
+5.  Install Required Packages
+```bash
+pip install -r requirements.txt
+```
+6.  Run the Application
+```bash
+python runserver.py
+```
