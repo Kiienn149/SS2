@@ -45,7 +45,9 @@ git clone  https://github.com/Kiienn149/SS2.git
 cd your-repo-name/SS2
 ```
 4.  Create and Activate Virtual Environment
+```bash
 python -m venv venv
+```
 Activate the virtual environment:
 
 On Windows:
