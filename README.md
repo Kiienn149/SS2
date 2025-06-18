@@ -42,7 +42,7 @@ git clone  https://github.com/Kiienn149/SS2.git
 ```
 3.  Navigate to the Project Directory
 ```bash
-cd your-repo-name/SS2
+cd your-repo-name/SS2/app_school
 ```
 4.  Create and Activate Virtual Environment
 ```bash
@@ -61,6 +61,7 @@ source venv/bin/activate
 ```
 5.  Install Required Packages
 ```bash
+cd ..
 pip install -r requirements.txt
 ```
 6.  Run the Application
