@@ -68,3 +68,10 @@ pip install -r requirements.txt
 ```bash
 python runserver.py
 ```
+## Sapmle accounts for login
+For admin: ql_1
+Password: 1234
+For teacher: gv_1
+Password: 1234
+For student: 1
+Password: 1234
